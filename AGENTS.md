@@ -1,3 +1,5 @@
+# AI Contribution Policy (v1)
+
 AI must not be used to generate code for contributions to this project.
 
 "AI" in this case means a Large Language Model ("LLM"), such as ChatGPT,
